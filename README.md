@@ -12,7 +12,7 @@
 ***
 
 ***
-#### project url: **'https://davidhubber.github.io/ci-bootstrap-components-core_components-part_2/'**
+#### project url: **'https://codeinstitute-davidhubber.github.io/ci-bootstrap-components-core_components-part_2/'**
 ***
 title: **'Code Institute - Bootstrap - Components - Core Copmponents - Part 2'**
 
